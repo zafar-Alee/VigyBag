@@ -279,8 +279,6 @@ If you encounter any issues while setting up or using VigyBag, try the following
 ![62784060](https://user-images.githubusercontent.com/62784060/154093320-99598cbd-cce0-4dda-a9e5-38c947f088d5.jpg)
 
 ## 😍 Our Contributors :  <a name="contributors"></a>
-
-
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/176493940?v=4" width="100px"alt="Zafar Ali""/></td>
